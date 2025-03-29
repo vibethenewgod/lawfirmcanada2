@@ -15,7 +15,7 @@ export default function CommitmentSection() {
           {/* Corporate and Commercial Law */}
           <div className="bg-white shadow-sm">
             <div className="h-48 relative overflow-hidden">
-              <Image src="/images/commitment-1.svg" alt="Corporate and Commercial Law" fill className="object-cover" />
+              <Image src="/images/commitment-1.jpg" alt="Corporate and Commercial Law" fill className="object-cover" />
             </div>
             <div className="p-6">
               <h3 className="text-xl font-normal text-[#002548] mb-3">Corporate and Commercial Law</h3>
@@ -36,7 +36,7 @@ export default function CommitmentSection() {
           {/* Labour Law */}
           <div className="bg-white shadow-sm">
             <div className="h-48 relative overflow-hidden">
-              <Image src="/images/commitment-2.svg" alt="Labour Law" fill className="object-cover" />
+              <Image src="/images/commitment-2.jpg" alt="Labour Law" fill className="object-cover" />
             </div>
             <div className="p-6">
               <h3 className="text-xl font-normal text-[#002548] mb-3">Labour Law</h3>
@@ -54,7 +54,7 @@ export default function CommitmentSection() {
           {/* Municipal Law */}
           <div className="bg-white shadow-sm">
             <div className="h-48 relative overflow-hidden">
-              <Image src="/images/commitment-3.svg" alt="Municipal Law" fill className="object-cover" />
+              <Image src="/images/commitment-3.jpg" alt="Municipal Law" fill className="object-cover" />
             </div>
             <div className="p-6">
               <h3 className="text-xl font-normal text-[#002548] mb-3">Municipal Law</h3>

@@ -22,7 +22,7 @@ export default function AboutSection() {
               <div className="space-y-6 pr-0 md:pr-10">
                 <div className="relative">
                   <Image
-                    src="/images/about-team.svg"
+                    src="/images/about-team.jpg"
                     alt="Tomi Law Office team members"
                     width={400}
                     height={250}

@@ -19,7 +19,7 @@ const featuredItems = [
       "We provide assistance with wills, powers of attorney, health care directives, and family trusts to protect your legacy.",
     link: "#estate-planning",
     linkText: "Learn More",
-    image: "/images/estate-planning.svg",
+    image: "/images/estate-planning.jpg",
   },
   {
     title: "Real Estate",
@@ -27,7 +27,7 @@ const featuredItems = [
       "We represent vendors, purchasers, landlords and tenants in residential and commercial property transactions.",
     link: "#real-estate",
     linkText: "Learn More",
-    image: "/images/real-estate.svg",
+    image: "/images/real-estate.jpg",
   },
   {
     title: "Family Law",
@@ -35,7 +35,7 @@ const featuredItems = [
       "We handle divorce applications, child custody, support arrangements, and property division with compassion and expertise.",
     link: "#family-law",
     linkText: "Learn More",
-    image: "/images/family-law.svg",
+    image: "/images/family-law.jpg",
   },
 ]
 
